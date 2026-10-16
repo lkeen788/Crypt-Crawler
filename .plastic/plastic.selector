@@ -1,0 +1,4 @@
+repository "Crypt Crawler/Crypt Crawler 2026-10-03_04-20-44@3721930@cloud"
+  path "/"
+    br "/main"
+    co "/main"

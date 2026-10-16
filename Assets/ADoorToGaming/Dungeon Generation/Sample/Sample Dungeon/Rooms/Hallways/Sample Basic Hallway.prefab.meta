@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd77e95478a0a854aa58bb1fef734574
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339096
+  packageName: Dungeon Generation Pack
+  packageVersion: 1.0
+  assetPath: Assets/ADoorToGaming/Dungeon Generation/Sample/Sample Dungeon/Rooms/Hallways/Sample
+    Basic Hallway.prefab
+  uploadId: 804726

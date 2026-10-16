@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7034d7cf5fc1ec40b16c8ddc38b0da0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339096
+  packageName: Dungeon Generation Pack
+  packageVersion: 1.0
+  assetPath: Assets/ADoorToGaming/Dungeon Generation/Sample/Sample Dungeon/Rooms/Big/Sample
+    Big Room.prefab
+  uploadId: 804726

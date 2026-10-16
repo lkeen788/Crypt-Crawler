@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e9f1e492077aa474c9624d21611f4a4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339096
+  packageName: Dungeon Generation Pack
+  packageVersion: 1.0
+  assetPath: Assets/ADoorToGaming/Dungeon Generation/Node.prefab
+  uploadId: 804726

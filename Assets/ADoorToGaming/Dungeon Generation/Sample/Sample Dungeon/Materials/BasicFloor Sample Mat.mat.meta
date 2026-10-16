@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 593d25f7d71b3c148a46c2d8bf5b407a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339096
+  packageName: Dungeon Generation Pack
+  packageVersion: 1.0
+  assetPath: Assets/ADoorToGaming/Dungeon Generation/Sample/Sample Dungeon/Materials/BasicFloor
+    Sample Mat.mat
+  uploadId: 804726

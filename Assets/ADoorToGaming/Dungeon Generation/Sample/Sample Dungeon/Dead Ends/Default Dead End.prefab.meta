@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f71f81fcaf24ffc40b06c235713ef959
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339096
+  packageName: Dungeon Generation Pack
+  packageVersion: 1.0
+  assetPath: Assets/ADoorToGaming/Dungeon Generation/Sample/Sample Dungeon/Dead Ends/Default
+    Dead End.prefab
+  uploadId: 804726
